@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_button">Search</string>
+    <string name="hint_text">Enter genre, author, title here to search...</string>
+    <string name="no_conn">There is no internet connectivity. Please check your network connection.</string>
+    <string name="no_books">Your search did not yield any books.</string>
+    <string name="how_to">Use the search box above, to query for books using author, title, genre, etc.</string>
+</resources>
